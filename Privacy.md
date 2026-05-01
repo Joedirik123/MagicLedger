@@ -27,4 +27,4 @@ externally.
 **Camera:** The card scanner uses the camera locally to read card
 titles. No images are uploaded.
 
-**Contact:** joedirik77@gmail.com
+**Contact:** for support email: joedirik77@gmail.com
